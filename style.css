@@ -19,7 +19,7 @@ p{
    float: left;
    margin-left: 5%;
    padding-left: 2%;
-   margin-top: 75px;
+   
 }
 .heading img{
     width: 100%;
@@ -59,8 +59,7 @@ section{
     border-radius: 5px;
     height: 80%;
     background-color: white;
-    width: 40%;
-    overflow: hidden;
+   
 }
 .one_experience{
     text-align: center;
