@@ -57,8 +57,9 @@ section{
 .single_experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 75%;
+    height: 80%;
     background-color: white;
+    width: 40%;
 }
 .one_experience{
     text-align: center;
