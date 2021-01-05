@@ -60,6 +60,7 @@ section{
     height: 80%;
     background-color: white;
     width: 40%;
+    overflow: hidden;
 }
 .one_experience{
     text-align: center;
